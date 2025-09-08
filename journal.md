@@ -7,4 +7,4 @@ Although cheating will be more obvious, the class and grade level averages will 
 A change like that would allow students to connect with each other through a more comfortable medium.
 
 # September 8, 2025
-The software enginnering field, you use compterscience to code differnt apps for a variety of platforms. With the the of AI, you can even shift your focus to larger parts of a projects and have AI assist you or complete lesser and simpler tasks. The video states there are a lot of social problems that could really leverage the use of computer science. This shows that computer science can hasten the amount of work software engineers can complete, increasing their productivity.
+The software engineering field, you use computer science to code different apps for a variety of platforms. With the the of AI, you can even shift your focus to larger parts of a projects and have AI assist you or complete lesser and simpler tasks. The video states there are a lot of social problems that could really leverage the use of computer science. This shows that computer science can hasten the amount of work software engineers can complete, increasing their productivity.
