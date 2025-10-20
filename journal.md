@@ -25,3 +25,13 @@ If I were in charge of school rules, I would allow phones, gaming, and certain a
 link to website: https://java-variable-quiz.my.canva.site/
 
 The prompt was to create a quiz/ review tool to go over variables in java. Canva interpreted it as a prompt to give me code in return, but after it completed that, it opened a tab that put all the code into an interactive window where I could take the test. There is even a feature that tells you what to remember if you get a question wrong so you can get closer to the right answer and I didn't even ask it to do that. To improve the prompt and the final product be better would be to have it longer and make the questions increase in difficulty if you get the previous question right. Alternatively, I could have Canva make the test infinite or until the user gets a certain number of questions right before letting them exit. Adding a final test without help at the end would make this website even more efficient.
+# October 20, 2025
+Solution to a logic puzzle
+
+| Name      | Seat | Class |
+|   :---:  |    :----:   |   :---:   |
+| Maria      | 35B       | First |
+| Hardeep      | 61F       | Second |
+| Franklin      | 91A       | Third |
+
+
