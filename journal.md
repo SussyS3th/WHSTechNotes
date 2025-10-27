@@ -34,4 +34,13 @@ Solution to a logic puzzle
 | Hardeep      | 61F       | Second |
 | Franklin      | 91A       | Third |
 
+# October 27, 2025
+Solution to another logic puzzle.
+
+| Name      | Main Dish | Desset |
+|   :---:  |    :----:   |   :---:   |
+| Fiona      | Gado Gado       | Creme Brulee |
+| Tobias      | Shrimp Ceviche       | French Apple Cake |
+| Leanne      | Beef Wellington       | Raspberry Tiramisu |
+
 
