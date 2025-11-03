@@ -25,6 +25,7 @@ If I were in charge of school rules, I would allow phones, gaming, and certain a
 link to website: https://java-variable-quiz.my.canva.site/
 
 The prompt was to create a quiz/ review tool to go over variables in java. Canva interpreted it as a prompt to give me code in return, but after it completed that, it opened a tab that put all the code into an interactive window where I could take the test. There is even a feature that tells you what to remember if you get a question wrong so you can get closer to the right answer and I didn't even ask it to do that. To improve the prompt and the final product be better would be to have it longer and make the questions increase in difficulty if you get the previous question right. Alternatively, I could have Canva make the test infinite or until the user gets a certain number of questions right before letting them exit. Adding a final test without help at the end would make this website even more efficient.
+
 # October 20, 2025
 Solution to a logic puzzle
 
@@ -42,5 +43,8 @@ Solution to another logic puzzle.
 | Fiona      | Gado Gado       | Creme Brulee |
 | Tobias      | Shrimp Ceviche       | French Apple Cake |
 | Leanne      | Beef Wellington       | Raspberry Tiramisu |
+
+# November 3, 2025
+When the Supplemental Nutrition Assistance Program run out of funding, millions of low-income families who rely on the benefits are at risk of going hungry. This creates an immediate problem of food insecurity for vulnerable populations, forcing people to make impossible choices, like skipping meals or paying rent instead of buying food. While technology could help by connecting people to local resources like food banks or community kitchens via apps or websites, challenges like the digital divide—limited or no internet access, lack of devices, and low digital literacy—can prevent those most in need from using these tools. Privacy concerns would surface, as apps that collect user data could make sensitive information vulnerable to misuse. An effective solution would be a simple tool called "Community Canteen" that uses a combination of mobile app and text message alerts to notify people of local food pantry hours, free meal programs, and surplus food distribution events in their area. It would prioritize security by anonymizing user data and provide offline options like printable lists to ensure equitable access.
 
 
