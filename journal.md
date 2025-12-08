@@ -55,3 +55,6 @@ I am incredibly excited to finally sleep in during the break. After many sleeple
 
 # December 1,2025
 Programmers write instructions and logic for drones to function autonomously, creating embedded software on the flight controller. This software integrates sensor data for stability and execution, using gyroscopes, accelerometers, and barometers. They develop algorithms for GPS navigation, waypoint tracking, and obstacle avoidance with cameras and LiDAR. Computer vision programs help drones interpret surroundings and identify objects in real-time. Additionally, they create application software for human operators to plan missions, control payloads, and receive data, ensuring safe and effective task performance.
+ 
+# December 8, 2025
+A self-driving car might fail due to the AI's struggle to interpret human safety conventions versus standard traffic rules. The challenge lies in cameras and sensors classifying the yellow bus, interpreting the sign instantly, and overriding normal driving behavior. A potential software fix would involve adding a high-priority "School Bus Protocol" rule. This hard-coded logic would force an immediate, full stop upon the system detecting the unique visual signature of an active school bus stop signal. This ensures the vehicle prioritizes this human safety rule above all navigation commands.
