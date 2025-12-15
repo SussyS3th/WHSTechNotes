@@ -58,3 +58,6 @@ Programmers write instructions and logic for drones to function autonomously, cr
  
 # December 8, 2025
 A self-driving car might fail due to the AI's struggle to interpret human safety conventions versus standard traffic rules. The challenge lies in cameras and sensors classifying the yellow bus, interpreting the sign instantly, and overriding normal driving behavior. A potential software fix would involve adding a high-priority "School Bus Protocol" rule. This hard-coded logic would force an immediate, full stop upon the system detecting the unique visual signature of an active school bus stop signal. This ensures the vehicle prioritizes this human safety rule above all navigation commands.
+
+# December 15, 2025
+This break, I plan on hanging out with my best friend before she moves away. We will probably go to an arcade, and then I have many concerts to attend as well. Other than that, I plan on resting, having late-night gaming sessions with the guys, and opening my Christmas gifts. Then, when New Year’s rolls around, I will most likely have people over, as always, to ring in the new year with close friends.
