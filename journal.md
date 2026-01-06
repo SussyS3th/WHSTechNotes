@@ -61,3 +61,6 @@ A self-driving car might fail due to the AI's struggle to interpret human safety
 
 # December 15, 2025
 This break, I plan on hanging out with my best friend before she moves away. We will probably go to an arcade, and then I have many concerts to attend as well. Other than that, I plan on resting, having late-night gaming sessions with the guys, and opening my Christmas gifts. Then, when New Year’s rolls around, I will most likely have people over, as always, to ring in the new year with close friends.
+
+# January 06, 2025
+The technology I used most was my phone to text friends, take pictures, and complete more of my drivers' ed course. I also used my Xbox as well to play Overwatch, which has recently shown me that I need a new one. The new-gen console will definitely run less like the potato that is my console. I also tried streaming on it, too, the same dull, potato-like performance. I used the home computer to look up colleges and internships for the summer and for studying for my SAT, which is very soon. I also had a meeting about colleges with many suggestions as well as things to pay attention to moving forward in the year.
