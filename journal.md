@@ -60,3 +60,24 @@ Maintaining solid hygiene and self-care is vital because it shows respect for th
 I enjoy watching football because I played it before, so it is nice to see what I remember and find out new things. I did not watch the whole Super Bowl; I only watched the score up until the halftime show, which I watched, and then all of the 4th quarter and about the last 5 minutes of the 3rd. It was not very back and forth, and it was a really defensive game, hence the low scores. I find defensive games boring as the offenses crumble. I did find it funny how the Patriots tried to be like the Bears and play really well at the end. It didn't work out too well for them.
 # February 23, 2026
 The most impactful technology of the 2026 Winter Olympics was wearable airbag vests, which fundamentally transformed athlete safety. In high-speed alpine skiing events, these vests utilized integrated sensors to detect a loss of control and inflate in milliseconds, shielding the athlete’s spine and chest before impact. This technology improved the sport by significantly reducing the risk of life-threatening injuries, ensuring that while athletes pushed the limits of performance, the focus remained on their skill rather than the danger of the course.
+# March 2, 2026
+Job #1
+Company: H-E-B Digital
+Job Title: Software Engineer I (Backend)
+Education Required: Bachelor’s degree in Computer Science or a related field (or equivalent experience).
+Experience Required: 1+ years of professional experience in software development.
+Skills / Tools / Languages: Java, Python, RESTful APIs, Microservices, and SQL/NoSQL databases.
+Certifications (if any): None required, though cloud certifications (AWS/GCP) are preferred.
+What the job does: This role involves designing and building the backend systems that power H-E-B's digital shopping platforms. Engineers write code to ensure the mobile app and website can handle millions of transactions efficiently. 
+
+Job #2
+Company: Booz Allen Hamilton
+Job Title: Cybersecurity Analyst
+Education Required: Bachelor’s degree in Cybersecurity, IT, or a related technical field.
+Experience Required: 2+ years of experience in IT or cybersecurity operations.
+Skills / Tools / Languages: Vulnerability scanning tools (Nessus), Linux/Windows administration, scripting (PowerShell/Bash), and risk management frameworks.
+Certifications (if any): CompTIA Security+ (required for DoD compliance).
+What the job does: This analyst protects sensitive government and commercial data by monitoring networks for threats and identifying security weaknesses. They work to ensure the company’s infrastructure stays ahead of potential hackers. 
+
+Between the two options, I would prefer to pursue the Software Engineer position at H-E-B Digital because I enjoy the creative process of building functional applications. This role specifically requires proficiency in Java and Python, as well as a background in designing RESTful APIs. These requirements connect directly to my interests because I have always enjoyed the "logic puzzle" aspect of coding and seeing a project come to life through a user interface. While cybersecurity is vital, my current classes focus more on software logic and database management, making the developer path a more natural fit for my skills. Ultimately, working for a local Texas staple like H-E-B while utilizing my favorite programming languages aligns perfectly with my long-term career goals. 
+
