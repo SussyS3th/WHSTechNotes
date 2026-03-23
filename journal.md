@@ -81,3 +81,10 @@ What the job does: This analyst protects sensitive government and commercial dat
 
 Between the two options, I would prefer to pursue the Software Engineer position at H-E-B Digital because I enjoy the creative process of building functional applications. This role specifically requires proficiency in Java and Python, as well as a background in designing RESTful APIs. These requirements connect directly to my interests because I have always enjoyed the "logic puzzle" aspect of coding and seeing a project come to life through a user interface. While cybersecurity is vital, my current classes focus more on software logic and database management, making the developer path a more natural fit for my skills. Ultimately, working for a local Texas staple like H-E-B while utilizing my favorite programming languages aligns perfectly with my long-term career goals. 
 
+# March 23, 2026
+Strategy: I used team stats and win probabilities instead of guessing.
+Performance: My perfect bracket is "busted," but I’ve still predicted most winners correctly.
+Big Surprise: The final perfect bracket in the world was broken when Tennessee beat Virginia.
+Using Data: Stats like shooting percentages help you pick winners based on facts rather than feelings.
+Computer Edge: Programs can run thousands of simulations in seconds to find the most likely outcomes.
+Career Paths: Jobs like Sports Data Scientist or Data Engineer involve using code to analyze game play.
