@@ -88,3 +88,6 @@ Big Surprise: The final perfect bracket in the world was broken when Tennessee b
 Using Data: Stats like shooting percentages help you pick winners based on facts rather than feelings.
 Computer Edge: Programs can run thousands of simulations in seconds to find the most likely outcomes.
 Career Paths: Jobs like Sports Data Scientist or Data Engineer involve using code to analyze game play.
+
+# March 30, 2026
+Upsets happen because data models can’t account for human emotion and the chaos of a single-elimination game. A great example is when #16 Fairleigh Dickinson beat #1 Purdue in 2023; despite Purdue having better stats and taller players, FDU’s aggressive energy and "nothing to lose" attitude rattled the favorites. Computers struggle to predict these moments because they rely on past averages, which don't show how a player reacts to extreme pressure or a sudden "hot hand" in the moment. In computer science, a program would struggle with these intangibles like team chemistry or momentum because they are hard to turn into numbers. To handle this uncertainty, a programmer might use probability ranges instead of a single winner, showing that even a 1% chance can still happen in real life.
