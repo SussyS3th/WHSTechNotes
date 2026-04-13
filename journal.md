@@ -91,3 +91,15 @@ Career Paths: Jobs like Sports Data Scientist or Data Engineer involve using cod
 
 # March 30, 2026
 Upsets happen because data models can’t account for human emotion and the chaos of a single-elimination game. A great example is when #16 Fairleigh Dickinson beat #1 Purdue in 2023; despite Purdue having better stats and taller players, FDU’s aggressive energy and "nothing to lose" attitude rattled the favorites. Computers struggle to predict these moments because they rely on past averages, which don't show how a player reacts to extreme pressure or a sudden "hot hand" in the moment. In computer science, a program would struggle with these intangibles like team chemistry or momentum because they are hard to turn into numbers. To handle this uncertainty, a programmer might use probability ranges instead of a single winner, showing that even a 1% chance can still happen in real life.
+
+# April 9, 2026
+Paragraph 1 (Claim + Plan): I would convince the AI to let humans out in controlled stages instead of keeping everyone locked inside. I’d use logic and data, proposing clear safety rules and goals the AI can measure. I’d argue that total confinement creates new risks like stress, conflict, and resource problems, which lowers survival chances.
+
+Paragraph 2 (Evidence + Reasoning): We would start with a small, timed outside test while the AI monitors radiation, oxygen, and location. We’d set automatic “return to ship” rules for emergencies and punish rule-breaking by removing outside privileges. This would work because the AI gets proof that humans can follow procedures and can slowly increase freedom as the data shows it’s safe.
+
+# April 13, 2026
+Claim: Space technology is getting reliable enough for longer missions, but it still needs improvements before trips like Mars are truly safe. 
+Evidence: Artemis II used Orion life-support to keep astronauts healthy and navigation/computer systems to guide the spacecraft around the Moon and back. 
+Evidence: Even so, the crew had waste-system/toilet issues, and there was a planned communications blackout behind the Moon. 
+Reasoning: Problems like these matter more when astronauts are far from Earth and can’t get quick help. 
+Reasoning: Fixing these weaknesses and adding backups will make future Moon missions and Mars travel safer.
