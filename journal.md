@@ -103,3 +103,8 @@ Evidence: Artemis II used Orion life-support to keep astronauts healthy and navi
 Evidence: Even so, the crew had waste-system/toilet issues, and there was a planned communications blackout behind the Moon. 
 Reasoning: Problems like these matter more when astronauts are far from Earth and can’t get quick help. 
 Reasoning: Fixing these weaknesses and adding backups will make future Moon missions and Mars travel safer.
+
+# April 20, 2026
+Claim: AI makes music and media more exciting and easier to create, but it also makes it harder to trust what’s real.
+Evidence: AI songs can sound like real singers, and AI-made memes or videos can spread fast online and change what people believe about events.
+Reasoning: It matters who made it because people deserve honesty and credit, but AI can still influence emotions the same way human content can. There should be limits like labeling AI content and banning fake voice/face copies used to trick people.
