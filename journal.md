@@ -108,3 +108,6 @@ Reasoning: Fixing these weaknesses and adding backups will make future Moon miss
 Claim: AI makes music and media more exciting and easier to create, but it also makes it harder to trust what’s real.
 Evidence: AI songs can sound like real singers, and AI-made memes or videos can spread fast online and change what people believe about events.
 Reasoning: It matters who made it because people deserve honesty and credit, but AI can still influence emotions the same way human content can. There should be limits like labeling AI content and banning fake voice/face copies used to trick people.
+
+# April 27, 2026
+Technology significantly enhanced my AP exam preparation this week by providing interactive tools that simulate the actual testing environment. Specifically, using AP Classroom allowed me to practice with authentic past questions while reviewing official rubrics to see exactly how graders award points. This access to specific scoring criteria helps demystify complex prompts, showing me precisely what is necessary to satisfy the requirements for different question types. Ultimately, these digital resources have turned a stressful review process into a focused, data-driven plan for success. Having these materials at my fingertips has made me feel much more confident heading into testing week.
